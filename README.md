@@ -1,14 +1,22 @@
-# About Me
+# About Me  
 
-Hi! 👋 I’m Uzair Ali Khan, a Software Engineering student at FAST NUCES.
-I completed my A-Levels in Pre-Engineering from Generations School, and I’m passionate about coding, problem-solving, and learning new technologies.
+Hi! My name is **_Uzair Ali Khan_**.  
+I am a Software Engineering student at FAST NUCES and completed my A-Levels in Pre-Engineering from Generations.  
 
-Programming Interests
+## Programming Interests  
 
-Learning the basics of programming and problem-solving
+1. Learning the fundamentals of programming  
+2. Problem solving and logical thinking  
+3. Exploring C/C++ and object-oriented programming  
 
-Exploring C/C++ as my first programming languages
+## Hobbies  
 
-Interested in software development and building useful applications
+- Reading about new technology and advancements in AI 
+- Playing football  
 
-Excited to grow my skills in algorithms, data structures, and web development in the future
+## Goals  
+
+I want to:  
+- **_Improve my coding skills through practice_**  
+- Work on real-world software projects  
+- Become a skilled software engineer  
