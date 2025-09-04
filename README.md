@@ -1,4 +1,4 @@
-#About Me
+# About Me
 
 Hi! 👋 I’m Uzair Ali Khan, a Software Engineering student at FAST NUCES.
 I completed my A-Levels in Pre-Engineering from Generations School, and I’m passionate about coding, problem-solving, and learning new technologies.
